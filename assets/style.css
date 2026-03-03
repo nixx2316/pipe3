@@ -479,19 +479,19 @@ left: 0%;
 
 /* Overlay images for each service box */
 #services .box-webdesign::after {
-  background: url('/images/about.png') no-repeat center/cover;
+  background: url('images/about.png') no-repeat center/cover;
 }
 
 #services .box-uiux::after {
-  background: url('/images/approach.png') no-repeat center/cover;
+  background: url('images/approach.png') no-repeat center/cover;
 }
 
 #services .box-product::after {
-  background: url('/images/commitment.png') no-repeat center/cover;
+  background: url('images/commitment.png') no-repeat center/cover;
 }
 
 #services .box-strategy::after { 
-  background: url('/images/p1.jpg') no-repeat center/cover;
+  background: url('images/p1.jpg') no-repeat center/cover;
 }
 
 
@@ -1031,4 +1031,5 @@ margin-top: 35px;
     min-width: 120px;
     padding: 0 25px;
   }
+
 }
